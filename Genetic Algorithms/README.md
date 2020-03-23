@@ -19,7 +19,7 @@
 
 ## About The Project
 
-Group selection is an evolutionary mechanism in which natural selection takes place in groups instead than at individual level. One of the main difficulties when trying to model these type of systems, is the fact that selfish individuals can try to take advantage of the group they are in by not giving any contribution to the group and making use at the same of the resources available (making them grow at a faster rate compared to cooperative individuals). This same concept of how having a cooperative or selfish behaviour can favour (or not) an individual, is studied in Behavioral Game Theory [1]. Additionally, it is at times argued that natural selection through evolution based on fitness ("survival of the fittest") incentivize individuals to be selfish in order to outpace the competition [2].
+Group selection is an evolutionary mechanism in which natural selection takes place in groups instead than at individual level. One of the main difficulties when trying to model these type of systems, is the fact that selfish individuals can try to take advantage of the group they are in by not giving any contribution to the group and making use at the same of the resources available (making them grow at a faster rate compared to cooperative individuals). This same concept of how having a cooperative or selfish behaviour can favour (or not) an individual, is studied in Behavioural Game Theory [1]. Additionally, it is at times argued that natural selection through evolution based on fitness ("survival of the fittest") incentivize individuals to be selfish in order to outpace the competition [2].
 
 In "Individual Selection for Cooperative Group Formation" by Simon T. Powers et al [3], is examined how individuals cooperative/selfish behaviour in small and large groups can make the different groups evolve over time.
 
@@ -33,7 +33,7 @@ If you want to test this project on your local machine, please use the following
 
 This repository can be downloaded in your desired directory by just using the following command in the Command Window (CMD).
 ```sh
-https://github.com/pierpaolo28/Reproduced-Research-Papers/Genetic Algorithms.git
+git clone https://github.com/pierpaolo28/Reproduced-Research-Papers.git
 ```
 
 ### Prerequisites
@@ -41,6 +41,7 @@ https://github.com/pierpaolo28/Reproduced-Research-Papers/Genetic Algorithms.git
 Once downloaded the repository, all the necessary dependencies can be installed using the following command.
 
 ```sh
+cd "Reproduced-Research-Papers/Genetic Algorithms"
 pip install -r requirements.txt
 ```
 This requirements.txt file was created using the Python [pipreqs](https://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt/) package.
@@ -72,13 +73,11 @@ Project Link: [https://github.com/pierpaolo28/Reproduced-Research-Papers](https:
 
 ## Acknowledgments
 
-[1] Behavioural Economics: Introduction to Behavioral Game Theory and Game Experiments. University of Oxford, Michaelmas Term 2013 Vincent P. Crawford, University of Oxford, All Souls College, and University of California, San Diego. Accessed at: https://econweb.ucsd.edu/vcrawfor/BGTIntroductionSlides13.pdf, Dec 2019.
+[1] Behavioural Economics: Introduction to Behavioral Game Theory and Game Experiments. University of Oxford, Michaelmas Term 2013 Vincent P. Crawford, University of Oxford, All Souls College, and University of California, San Diego. Accessed at: [https://econweb.ucsd.edu/vcrawfor/BGTIntroductionSlides13.pdf](https://econweb.ucsd.edu/vcrawfor/BGTIntroductionSlides13.pdf), Dec 2019.
 
-[2] Evolution, Selfishness and Cooperation University of Brussels, Pleinlaan 2, B-1050 Brussels, Belgium. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.7011rep=rep1type=pdf, Dec 2019.
+[2] Evolution, Selfishness and Cooperation University of Brussels, Pleinlaan 2, B-1050 Brussels, Belgium. [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.7011rep=rep1type=pdf](https://econweb.ucsd.edu/vcrawfor/BGTIntroductionSlides13.pdf), Dec 2019.
 
-[3] Individual Selection for Cooperative Group Formation. In Proceedings of the 9th European Conference on Artificial Life (ECAL 2007), pp. 585-594, Lisbon, Portugal. e Costa, F. A., Rocha, L. M., Costa, E., Harvey, I. and Coutinho, A., Eds. Powers, S. T., Penn, A. S. and Watson, R. A. (2007) (2007).Accessed at: https://eprints.soton.ac.uk/264277/, Dec 2019.
-
-
+[3] Individual Selection for Cooperative Group Formation. In Proceedings of the 9th European Conference on Artificial Life (ECAL 2007), pp. 585-594, Lisbon, Portugal. e Costa, F. A., Rocha, L. M., Costa, E., Harvey, I. and Coutinho, A., Eds. Powers, S. T., Penn, A. S. and Watson, R. A. (2007) (2007).Accessed at: [https://eprints.soton.ac.uk/264277/](https://econweb.ucsd.edu/vcrawfor/BGTIntroductionSlides13.pdf), Dec 2019.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
