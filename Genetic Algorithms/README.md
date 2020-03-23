@@ -1,7 +1,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
   <h3 align="center">Genetic Algorithms</h3>
@@ -73,25 +72,25 @@ Project Link: [https://github.com/pierpaolo28/Reproduced-Research-Papers](https:
 
 ## Acknowledgments
 
-[1] Behavioural Economics: Introduction to Behavioral Game Theory and Game Experiments.University of Oxford, Michaelmas Term 2013 Vincent P. Crawford, University of Oxford, All Souls College, and University of California, San Diego.Accessed at: https://econweb.ucsd.edu/vcrawfor/BGTIntroductionSlides13.pdf, Dec 2019.
+[1] Behavioural Economics: Introduction to Behavioral Game Theory and Game Experiments. University of Oxford, Michaelmas Term 2013 Vincent P. Crawford, University of Oxford, All Souls College, and University of California, San Diego. Accessed at: https://econweb.ucsd.edu/vcrawfor/BGTIntroductionSlides13.pdf, Dec 2019.
 
 [2] Evolution, Selfishness and Cooperation University of Brussels, Pleinlaan 2, B-1050 Brussels, Belgium. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.7011rep=rep1type=pdf, Dec 2019.
 
-[3] Individual Selection for Cooperative Group Formation. In Proceedings of the 9th European Conference on Artificial Life (ECAL 2007), pp. 585-594, Lisbon, Portugal. e Costa, F. A., Rocha, L. M., Costa, E., Harvey, I. and Coutinho, A., Eds. Powers, S. T., Penn, A. S. andWatson, R. A. (2007) (2007).Accessed at: https://eprints.soton.ac.uk/264277/, Dec 2019.
+[3] Individual Selection for Cooperative Group Formation. In Proceedings of the 9th European Conference on Artificial Life (ECAL 2007), pp. 585-594, Lisbon, Portugal. e Costa, F. A., Rocha, L. M., Costa, E., Harvey, I. and Coutinho, A., Eds. Powers, S. T., Penn, A. S. and Watson, R. A. (2007) (2007).Accessed at: https://eprints.soton.ac.uk/264277/, Dec 2019.
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/pierpaolo28/Reproduced-Research-Papers.svg?style=flat-square
 [contributors-url]: https://github.com/pierpaolo28/Reproduced-Research-Papers/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/pierpaolo28/Reproduced-Research-Papers.svg?style=flat-square
 [forks-url]: https://github.com/pierpaolo28/Reproduced-Research-Papers/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/pierpaolo28/Reproduced-Research-Papers.svg?style=flat-square
 [stars-url]: https://github.com/pierpaolo28/Reproduced-Research-Papers/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/pierpaolo28/Reproduced-Research-Papers.svg?style=flat-square
 [issues-url]: https://github.com/pierpaolo28/Reproduced-Research-Papers/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/pierpaolo28/Reproduced-Research-Papers.svg?style=flat-square
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/pierpaolo28/
 [product-screenshot]: images/screenshot.png
