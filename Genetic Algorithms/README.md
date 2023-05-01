@@ -49,7 +49,7 @@ This requirements.txt file was created using the Python [pipreqs](https://www.id
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Detailed explanations about this project and the background research motivations is available in the Evolution_of_Complexity report PDF and in the Simon T. Powers' [publication](https://eprints.soton.ac.uk/264277/).
+Detailed explanations about this project and the background research motivations is available in the Evolution_of_Complexity report PDF and in the Simon T. Powers' [publication](https://eprints.soton.ac.uk/264277/) and [conference paper](https://link.springer.com/chapter/10.1007/978-3-540-74913-4_59). These details are also accessible from [Papers With Code](https://paperswithcode.com/paper/individual-selection-for-cooperative-group).
 
 ## Contributing
 
